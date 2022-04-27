@@ -1,0 +1,17 @@
+
+First file.
+ext.css
+
+b
+{color:red;font-size:20px;}
+
+Second file
+ext.html
+
+<html>
+<head>
+<link rel=stylesheet href="/storage/emulated/0/html_practical/ext.css">
+</head>
+<body>
+<b>This is External CSS</b>
+</body></html>
