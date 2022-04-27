@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+a=20;
+b=5;
+add=a+b;
+sub=a-b;
+mul=a*b;
+div=a/b;
+mod=a%b;
+{
+document.write("Addition of two No:-"+add+"<br><br>")
+document.write("Subtraction of two No:-"+sub+"<br><br>")
+document.write("Multiplication of two No:-"+mul+"<br><br>")
+document.write("Division of two No:-"+div+"<br><br>")
+document.write("Modulo of two No:-"+mod+"<br><br>")
+}
+</script>
+</body>
+</html>
