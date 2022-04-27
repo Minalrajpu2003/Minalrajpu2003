@@ -1,0 +1,11 @@
+html>
+<head>
+</head>
+<body>
+
+<p style="font-style:normal;background-color:pink;">Server side validation is performed by a web server, after input has been sent to the server.<p>
+
+<p style="font-style:italic;background-color: yellow;">Server side validation is performed by a web server, after input has been sent to the server.</p>
+<p style="font-style:oblique;background-color:gray;">Server side validation is performed by a web server, after input has been sent to the server.</p>
+</body>
+</html>
