@@ -1,0 +1,10 @@
+<html>
+<head>
+<style>
+.b{ border: 6px dashed;border-color:black;font-weight:20%;color:blue;text-align:center}
+</style>
+</head>
+<body>
+<h1 class="b">MINAL</h1>
+</body>
+</html>
